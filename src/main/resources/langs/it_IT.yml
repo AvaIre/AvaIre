@@ -814,6 +814,11 @@ utility:
         noTopic: '*Nessun topic settato per questo canale*'
         timeFormat: 'EEE, dd MMM yyyy HH:mm'
 
+    ColorCommand:
+        errorParsingColor: ":color is not a recognized color."
+        somethingWentWrong: "Something went wrong with generating the image. Please try again."
+
+
     ExpandUrlCommand:
         noRedirect: ":url non reindirizza da nessuna parte."
         redirects: '{0} reindirizza a {1}'

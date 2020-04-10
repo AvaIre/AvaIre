@@ -812,6 +812,10 @@ utility:
         noTopic: '*Nincs topikja a channelnek*'
         timeFormat: 'EEE, dd MMM yyyy HH:mm'
 
+    ColorCommand:
+        errorParsingColor: ":color is not a recognized color."
+        somethingWentWrong: "Something went wrong with generating the image. Please try again."
+
     ExpandUrlCommand:
         noRedirect: ":url sehová sem küld tovább."
         redirects: '{0} tovább küld {1}-re'
